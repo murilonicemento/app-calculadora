@@ -17,4 +17,4 @@ https://appcal.netlify.app/
 
 ## Tela Inicial
 #
-<img src= "Calculadora.png">
+<img src= ".github/Calculadora.png">
